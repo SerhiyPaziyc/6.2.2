@@ -1,0 +1,14 @@
+﻿'6.2.1.exe' (Win32): Loaded 'C:\Users\LENOVO\source\repos\6.2.1\Debug\6.2.1.exe'. Symbols loaded.
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3a58 has exited with code 0 (0x0).
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'6.2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x32d0 has exited with code 0 (0x0).
+The thread 0x14b0 has exited with code 0 (0x0).
+The program '[2412] 6.2.1.exe' has exited with code 0 (0x0).
